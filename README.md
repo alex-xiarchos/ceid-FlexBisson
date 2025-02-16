@@ -11,9 +11,7 @@ The assignments and project involve:
 
 
 ## 📑 Report PDFs
-- [First Exercises Set](https://github.com/alex-xiarchos/ceid-krweb/blob/main/KRWEB_1059619_ASK_1_doc.pdf)
-- [Second Exercises Set](https://github.com/alex-xiarchos/ceid-krweb/blob/main/KRWEB_1059619_ASK_2.pdf)
-- [Project Report]([./reports/project-report.pdf](https://github.com/alex-xiarchos/ceid-krweb/blob/main/KRWEB_PROJECT_report.pdf))
+- [Report](https://github.com/alex-xiarchos/ceid-FlexBisson/blob/main/1059619_doc.pdf)
 
 
 ## 💻 Technologies Used
